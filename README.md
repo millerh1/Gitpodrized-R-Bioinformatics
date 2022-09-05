@@ -1,6 +1,3 @@
-# skill-cert-api
-# Skill-cert-bot
-# Skill-App-SlackBot
-# Skill-App-Sync
-# Skill-App-Sync
-# Gitpodrized-R-Bioinformatics
+# Repo for gitpodrized R
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/millerh1/Gitpodrized-R-Bioinformatics)
