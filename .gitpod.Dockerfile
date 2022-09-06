@@ -20,5 +20,3 @@ RUN R -e "install.packages('renv')"
 # RUN R -e "renv::restore()"
 
 EXPOSE 8787
-# ENV DISABLE_AUTH=true
-ENV "PASSWORD"="password"
