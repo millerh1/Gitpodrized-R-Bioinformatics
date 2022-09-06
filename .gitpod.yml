@@ -2,7 +2,7 @@ image:
   file: .gitpod.Dockerfile
 ports:
   - port: 8787
-    onOpen: open-preview
+    onOpen: open-browser
 tasks:
   - command: |
       sudo bash -c "echo 'session-default-working-dir=/workspace/' > /etc/rstudio/rsession.conf"
